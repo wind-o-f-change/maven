@@ -1,0 +1,2 @@
+08.06.2020 18:50:31.747 [main] INFO  stc.inno.Main - Начальный объект: Mobile{id=6, model='Iphone 2', price=25000, manufacturer=Apple}
+08.06.2020 18:50:31.836 [main] INFO  stc.inno.Main - Итоговый объект: Mobile{id=6, model='Iphone 2', price=50000, manufacturer=Apple}
